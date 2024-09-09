@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\unity_learn\\KitchenChaos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|d:\\unity_learn\\kitchenchaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|D:\\unity_learn\\KitchenChaos\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|d:\\unity_learn\\kitchenchaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|D:\\unity_learn\\KitchenChaos\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,32 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameInput.cs",
               "DocumentMoniker": "D:\\unity_learn\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
               "ToolTip": "D:\\unity_learn\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T05:02:42.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "player.cs",
               "DocumentMoniker": "D:\\unity_learn\\KitchenChaos\\Assets\\Scripts\\player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\player.cs",
               "ToolTip": "D:\\unity_learn\\KitchenChaos\\Assets\\Scripts\\player.cs",
               "RelativeToolTip": "Assets\\Scripts\\player.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T06:47:23.482Z"
+              "WhenOpened": "2024-09-07T06:47:23.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,9 +58,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\playerAnimator.cs",
               "ToolTip": "D:\\unity_learn\\KitchenChaos\\Assets\\Scripts\\playerAnimator.cs",
               "RelativeToolTip": "Assets\\Scripts\\playerAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T06:43:41.79Z"
+              "WhenOpened": "2024-09-07T06:43:41.79Z",
+              "EditorCaption": ""
             }
           ]
         }
